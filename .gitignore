@@ -1,1 +1,4 @@
 .gradle
+java-cst-model-extractor.iml
+java-cst-model-extractor.ipr
+java-cst-model-extractor.iws
